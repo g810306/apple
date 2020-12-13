@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		7E381C4625738EE000632238 /* apeach.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = apeach.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		7E381C4625738EE000632238 /* apple.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = apple.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7E381C4925738EE000632238 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7E381C4B25738EE000632238 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		7E381C4D25738EE000632238 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		7E381C4725738EE000632238 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				7E381C4625738EE000632238 /* apeach.app */,
+				7E381C4625738EE000632238 /* apple.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -78,9 +78,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		7E381C4525738EE000632238 /* apeach */ = {
+		7E381C4525738EE000632238 /* apple */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7E381C5A25738EE200632238 /* Build configuration list for PBXNativeTarget "apeach" */;
+			buildConfigurationList = 7E381C5A25738EE200632238 /* Build configuration list for PBXNativeTarget "apple" */;
 			buildPhases = (
 				7E381C4225738EE000632238 /* Sources */,
 				7E381C4325738EE000632238 /* Frameworks */,
@@ -90,9 +90,9 @@
 			);
 			dependencies = (
 			);
-			name = apeach;
+			name = apple;
 			productName = apeach;
-			productReference = 7E381C4625738EE000632238 /* apeach.app */;
+			productReference = 7E381C4625738EE000632238 /* apple.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -109,7 +109,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 7E381C4125738EE000632238 /* Build configuration list for PBXProject "apeach" */;
+			buildConfigurationList = 7E381C4125738EE000632238 /* Build configuration list for PBXProject "apple" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -122,7 +122,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				7E381C4525738EE000632238 /* apeach */,
+				7E381C4525738EE000632238 /* apple */,
 			);
 		};
 /* End PBXProject section */
@@ -294,7 +294,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.ning.apeach;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ning.apple;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -314,7 +314,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.ning.apeach;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ning.apple;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -324,7 +324,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		7E381C4125738EE000632238 /* Build configuration list for PBXProject "apeach" */ = {
+		7E381C4125738EE000632238 /* Build configuration list for PBXProject "apple" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7E381C5825738EE200632238 /* Debug */,
@@ -333,7 +333,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7E381C5A25738EE200632238 /* Build configuration list for PBXNativeTarget "apeach" */ = {
+		7E381C5A25738EE200632238 /* Build configuration list for PBXNativeTarget "apple" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7E381C5B25738EE200632238 /* Debug */,
